@@ -297,7 +297,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 - [ ] Banco de dados local para histórico
 - [ ] Configuração via Bluetooth
 - [ ] Modo de baixo consumo energético
-- [ ] Suporte a múltiplos sensores
 - [ ] Alertas por email/telegram
 
 ## 🏷️ Tags
